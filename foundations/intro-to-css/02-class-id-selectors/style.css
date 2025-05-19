@@ -1,0 +1,19 @@
+.odd-number {
+    background-color: #FF9999;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#second-element {
+    color: #0000FF;
+    font-size: 36px;
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+#fourth-element {
+    background-color: #90EE90;
+    font-size: 24px; /* we could reuse the cooler class above for this element */
+    font-weight: bold;
+}
